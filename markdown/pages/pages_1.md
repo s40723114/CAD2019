@@ -10,7 +10,7 @@ Title: About
 
 課程網誌: <a href="https://s40723114.github.io/cad2019/blog">https://s40723114.github.io/cad2019/blog</a>
 
-
+期中報告影片: <a href="https://youtu.be/7Q6yCamBzgk">https://youtu.be/7Q6yCamBzgk</a>
 
 
 
