@@ -1,6 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>cad2019 s40723114 - Misc</title><link href="./" rel="alternate"></link><link href=".%5Cfeeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2018-09-10T11:00:00+08:00</updated><entry><title>2018 Fall CP 課程</title><link href=".%5C2018-Fall-32-bit-Windows.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:None,2018-09-10:.\2018-Fall-32-bit-Windows.html</id><summary type="html">&lt;p&gt;2018 Fall 一開始, 在一台已經 10 年的 32 位元的 Windows 7 操作系統中工作. 可攜的 Python 3.7.0 仍然可以配置, Leo Editor、PyQt5、flask、Markdown、pelican 與 bs4 的安裝, 也都沒有問題. 只有 Eric6 因為缺少必要模組與 Python 3.7.0 對應的 pyqt5-tools, 因此沒有安裝.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2018 Fall 一開始, 在一台已經 10 年的 32 位元的 Windows 7 操作系統中工作. 可攜的 Python 3.7.0 仍然可以配置, Leo Editor、PyQt5、flask、Markdown、pelican 與 bs4 的安裝, 也都沒有問題. 只有 Eric6 因為缺少必要模組與 Python 3.7.0 對應的 pyqt5-tools, 因此沒有安裝.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>cad2019 s40723114 - Misc</title><link href="https://s40723114.github.io/cad2019/blog/" rel="alternate"></link><link href="https://s40723114.github.io/cad2019/blog/feeds/misc.atom.xml" rel="self"></link><id>https://s40723114.github.io/cad2019/blog/</id><updated>2018-09-10T11:00:00+08:00</updated><entry><title>期中報告</title><link href="https://s40723114.github.io/cad2019/blog/2018-Fall-32-bit-Windows.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:s40723114.github.io,2018-09-10:/cad2019/blog/2018-Fall-32-bit-Windows.html</id><summary type="html">&lt;p&gt;學號40723114&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;網址:&lt;a href="https://youtu.be/7Q6yCamBzgk"&gt;https://youtu.be/7Q6yCamBzgk&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/7Q6yCamBzgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;心得:&lt;/p&gt;
+&lt;p&gt;在這九週裡,我學會了splvespace編譯及繪製許多零組件,還有V-REP模擬環境控制等等..,雖然來說還沒有非常熟悉及應用,但在機械設計上,我相信這才是真的設計,讓我們可以思考,如何更有效率的將設計,帶
+到機械上!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Week2~Week7之進度&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Week2
+建立cmsimde網站及分組&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Week3
+solvespace編譯&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Week5
+solvespace操作及應用&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Week6
+參數化零組件繪製
+網際V-REP模型控制&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Week7
+solvespace繪圖驗證&lt;/p&gt;
+&lt;hr&gt;
+</summary><content type="html">&lt;p&gt;學號40723114&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;網址:&lt;a href="https://youtu.be/7Q6yCamBzgk"&gt;https://youtu.be/7Q6yCamBzgk&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/7Q6yCamBzgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;心得:&lt;/p&gt;
+&lt;p&gt;在這九週裡,我學會了splvespace編譯及繪製許多零組件,還有V-REP模擬環境控制等等..,雖然來說還沒有非常熟悉及應用,但在機械設計上,我相信這才是真的設計,讓我們可以思考,如何更有效率的將設計,帶
+到機械上!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Week2~Week7之進度&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Week2
+建立cmsimde網站及分組&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Week3
+solvespace編譯&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Week5
+solvespace操作及應用&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Week6
+參數化零組件繪製
+網際V-REP模型控制&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Week7
+solvespace繪圖驗證&lt;/p&gt;
+&lt;hr&gt;
 
 
 &lt;h2&gt;電腦規格&lt;/h2&gt;
