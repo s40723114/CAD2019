@@ -46,9 +46,9 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## CAD 40723114 杜永瀚
+<t tx="leo.20180902120523.10">###CAD 40723114 個人簡報
 
-### 期中簡報
+
 
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
@@ -237,14 +237,14 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20191107151522.2">###W2 建立CMSIMDE網站
+<t tx="leo.20191107151522.2">##NX12簡略介紹
 
 
 
 &lt;small&gt;
-Created by [W2](https://s40723114.github.io/cad2019/content/week2.html)
+Created by [NX說明](https://s40723114.github.io/cad2019/content/NX%20%E8%AA%AA%E6%98%8E.html)
 
-&lt;img src="../images/1.PNG"width="600px"/&gt;
+
 &lt;/small&gt;
 
 [CMSimfly 網誌](./../blog/index.html)
@@ -260,12 +260,12 @@ Created by [W2](https://s40723114.github.io/cad2019/content/week2.html)
 
 						
 </t>
-<t tx="leo.20191107152228.2">###W3 Solvespace編譯
+<t tx="leo.20191107152228.2">##NX12 操作
 
 
 
 &lt;small&gt;
-Created by [W3](https://s40723114.github.io/cad2019/content/week3.html)
+Created by [NX12操作影片](https://s40723114.github.io/cad2019/content/NX12%20%E6%93%8D%E4%BD%9C%E5%BD%B1%E7%89%87.html)
 
 &lt;/&lt;img src="../images/2.PNG"width="600px"/&gt;&gt;
 
