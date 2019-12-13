@@ -21,20 +21,23 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20191213102334.1"><vh>封面投影片</vh>
+<v t="leo.20191213102334.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20191107151522.1"><vh>封面投影片</vh>
 <v t="leo.20191107151522.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191107152228.1"><vh>封面投影片</vh>
-<v t="leo.20191107152228.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20191213102631.1"><vh>封面投影片</vh>
+<v t="leo.20191213102631.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191107152322.1"><vh>封面投影片</vh>
-<v t="leo.20191107152322.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20191213102800.1"><vh>封面投影片</vh>
+<v t="leo.20191213102800.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191107152802.1"><vh>封面投影片</vh>
-<v t="leo.20191107152802.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20191213102904.1"><vh>封面投影片</vh>
+<v t="leo.20191213102904.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191107152926.1"><vh>封面投影片</vh>
-<v t="leo.20191107152926.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20191213103118.1"><vh>封面投影片</vh>
+<v t="leo.20191213103118.2"><vh>封面投影片內容</vh></v>
 </v>
 </v>
 </v>
@@ -46,14 +49,13 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">###CAD 40723114 個人簡報
-
-
+<t tx="leo.20180902120523.10">##CAD 40723114 個人簡報
 
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
+[CMSimfly 網頁](./../content/index.html)
 [CMSimfly 網誌](./../blog/index.html)
 
 
@@ -237,7 +239,27 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20191107151522.2">##NX12簡略介紹
+<t tx="leo.20191107151522.2">##NX12操作影片
+
+
+
+&lt;small&gt;
+Created by [NX操作影片](https://s40723114.github.io/cad2019/content/NX12%20%E6%93%8D%E4%BD%9C%E5%BD%B1%E7%89%87.html)
+
+
+
+
+</t>
+<t tx="leo.20191213102334.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191213102334.2">##NX12簡略介紹
 
 
 
@@ -245,13 +267,11 @@ vertical: body pane on the botton</t>
 Created by [NX說明](https://s40723114.github.io/cad2019/content/NX%20%E8%AA%AA%E6%98%8E.html)
 
 
-&lt;/small&gt;
 
-[CMSimfly 網誌](./../blog/index.html)
 
 
 </t>
-<t tx="leo.20191107152228.1">&lt;section data-markdown&gt;
+<t tx="leo.20191213102631.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -260,20 +280,18 @@ Created by [NX說明](https://s40723114.github.io/cad2019/content/NX%20%E8%AA%AA
 
 						
 </t>
-<t tx="leo.20191107152228.2">##NX12 操作
+<t tx="leo.20191213102631.2">##week13
 
 
+NX12 以下為nx12重要檔案
 
-&lt;small&gt;
-Created by [NX12操作影片](https://s40723114.github.io/cad2019/content/NX12%20%E6%93%8D%E4%BD%9C%E5%BD%B1%E7%89%87.html)
-
-&lt;/&lt;img src="../images/2.PNG"width="600px"/&gt;&gt;
-
-[CMSimfly 網誌](./../blog/index.html)
+1.NXASSEMBLY(作用為轉檔)=IGES也是轉檔
+2.NXBIN 
+3.UGII0 註 1.Journal=畫圖中並同時儲存
 
 
 </t>
-<t tx="leo.20191107152322.1">&lt;section data-markdown&gt;
+<t tx="leo.20191213102800.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -282,21 +300,17 @@ Created by [NX12操作影片](https://s40723114.github.io/cad2019/content/NX12%2
 
 						
 </t>
-<t tx="leo.20191107152322.2">###W5 solvespace軟體操作
+<t tx="leo.20191213102800.2">WEEK13
 
+重點筆記: 講解NX3與NX12之間特性、差異
 
+NX3=較陽春，但簡便，可執行放在UGII檔裡
 
-&lt;small&gt;
-Created by [W5](https://s40723114.github.io/cad2019/content/week5.html)
-&lt;/small&gt;
-
-&lt;/&lt;img src="../images/3.PNG"width="600px"/&gt;&gt;
-
-[CMSimfly 網誌](./../blog/index.html)
+NX12=規格、功能性相對齊全，但為了配合Windows 7之後的升級改版，直接將大部分檔案放在NXBIN裡，不過有些重要檔案仍儲存在UGII裡。
 
 
 </t>
-<t tx="leo.20191107152802.1">&lt;section data-markdown&gt;
+<t tx="leo.20191213102904.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -305,21 +319,20 @@ Created by [W5](https://s40723114.github.io/cad2019/content/week5.html)
 
 						
 </t>
-<t tx="leo.20191107152802.2">###W6 利用solvespace繪製自走車零件
+<t tx="leo.20191213102904.2">WEEK13
 
+重點筆記: 將NX12程式語言改成Python
 
+改寫位置之操作順序: File&gt;Preferences&gt;User interface&gt;Tools
 
-&lt;small&gt;
-Created by [W6](https://s40723114.github.io/cad2019/content/week6.html)
-&lt;/small&gt;
+原先Journal language中將Visual Basic選項改為Python選項
 
-&lt;/&lt;img src="../images/4.PNG"width="600px"/&gt;&gt;
+目的: 主要方面日後藉由程式去操作NX12
 
-[CMSimfly 網誌](./../blog/index.html)
-
+Finish.
 
 </t>
-<t tx="leo.20191107152926.1">&lt;section data-markdown&gt;
+<t tx="leo.20191213103118.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -328,19 +341,8 @@ Created by [W6](https://s40723114.github.io/cad2019/content/week6.html)
 
 						
 </t>
-<t tx="leo.20191107152926.2">###W7 繪圖驗證
+<t tx="leo.20191213103118.2">NX心得
 
-
-
-&lt;small&gt;
-Created by [W7](https://s40723114.github.io/cad2019/content/week7.html)
-&lt;/small&gt;
-
-&lt;/&lt;img src="../images/5.PNG"width="600px"/&gt;&gt;
-
-[CMSimfly 網誌](./../blog/index.html)
-
-
-</t>
+在使用NX12的時候,一開始很不習慣,因為NX12為高階cad軟體,所以花了一些時間摸索,用完NX12發現它的功能很強大也很多,但操作起來也變得相當複雜,之前常用SOLID WORK,發現SOLID WORK用起來是比NX12好上手,但NX12功能較多,也較廣泛.</t>
 </tnodes>
 </leo_file>
