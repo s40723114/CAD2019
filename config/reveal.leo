@@ -56,6 +56,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
 [CMSimfly 網頁](./../content/index.html)
+
 [CMSimfly 網誌](./../blog/index.html)
 
 
@@ -239,7 +240,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20191107151522.2">##NX12操作影片
+<t tx="leo.20191107151522.2">NX12操作影片
 
 
 
@@ -259,7 +260,7 @@ Created by [NX操作影片](https://s40723114.github.io/cad2019/content/NX12%20%
 
 						
 </t>
-<t tx="leo.20191213102334.2">##NX12簡略介紹
+<t tx="leo.20191213102334.2">NX12簡略介紹
 
 
 
@@ -280,7 +281,7 @@ Created by [NX說明](https://s40723114.github.io/cad2019/content/NX%20%E8%AA%AA
 
 						
 </t>
-<t tx="leo.20191213102631.2">##week13
+<t tx="leo.20191213102631.2">week13
 
 
 NX12 以下為nx12重要檔案
