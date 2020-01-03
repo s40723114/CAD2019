@@ -111,26 +111,29 @@
 <p>在形狀級別而不是幾何級別，盡可能使用定義機制。 實際上，在固體節點的邊界物體字段中添加中間形狀節點更為方便。 實現牆的最佳幾何原語是框節點。 所有牆壁僅需定義一個形狀。 預期結果如圖所示。</p>
 <p> </p>
 <p>實際操作＃8：添加四面牆，無需物理操作，僅使用“形狀”節點的一個定義。</p>
-<h3 style="background: white; margin: 15.0pt 0in 15.0pt 0in;"><span lang="EN-US" style="font-size: 19.5pt; font-family: 'Roboto',serif; color: #0e6f8c; font-weight: normal;">Add Walls<o:p></o:p></span></h3>
+<h4><span style="color: #ff6600;">Add wall</span></h4>
+<h4></h4>
 <p>In order to verify your progression, implement by yourself four walls to surround the environment. The walls have to be defined statically to the environment. To understand the difference between static and dynamic, let's take a defined object (the ball) above the ground. If the Physics node is NULL, it will remain frozen in the air during the simulation (static case). If the physics field contains a Physics nodes, it will fall under the effect of gravity (dynamic case).</p>
-<p> Use as much as possible the DEF-USE mechanism at the Shape level rather than at the Geometry level. Indeed it's more convenient to add an intermediate Shape node in the boundingObject field of the Solid node. The best Geometry primitive to implement the walls is the Box node. Only one Shape has to be defined for all the walls. The expected result is shown in this figure.</p>
-<p> <span style="color: #ff6600;">Hands-on #8</span>: Add four walls without physics and using only one definition of the Shape node.</p>
 <p> </p>
-<h3 style="background: white; margin: 15.0pt 0in 15.0pt 0in;"><span lang="EN-US" style="font-size: 19.5pt; font-family: 'Roboto',serif; color: #0e6f8c; font-weight: normal;">Solution: World File<o:p></o:p></span></h3>
+<p>Use as much as possible the DEF-USE mechanism at the Shape level rather than at the Geometry level. Indeed it's more convenient to add an intermediate Shape node in the boundingObject field of the Solid node. The best Geometry primitive to implement the walls is the Box node. Only one Shape has to be defined for all the walls. The expected result is shown in this figure.</p>
+<p> </p>
+<p>Hands-on #8: Add four walls without physics and using only one definition of the Shape node.</p>
+<p> <span style="color: #ff6600;">Solution: World File</span></p>
 <p>To compare your world with the solution, go to your files and find the folder named "my_first_simulation" created in Tutorial 1, then go to the "worlds" folder and open with a text editor the right world. This solution as the others is located in the solution directory.</p>
 <p><img alt="" height="293" src="/images/turtorial.JPG" width="469"/></p>
 <p> </p>
 <p> 效率</p>
 <p>剛體的模擬在計算上是昂貴的。 可以通過以下方法來提高仿真速度：最小化邊界對象的數量，最小化邊界對象之間的約束（有關下一個教程的約束的更多信息），並最大化WorldInfo.basicTimeStep字段。 在每個模擬中，必須在模擬速度和真實性之間找到一個折衷。</p>
-<h3 style="background: white; margin: 15.0pt 0in 15.0pt 0in;"><span lang="EN-US" style="font-size: 19.5pt; font-family: 'Roboto',serif; color: #0e6f8c; font-weight: normal;">Efficiency<o:p></o:p></span></h3>
+<p><span style="color: #ff6600;">Efficiency</span></p>
 <p>The simulation of rigid bodies is computationally expensive. The simulation speed can be increased by minimizing the number of bounding objects, minimizing the constraints between them (more information about the constraints in the next tutorials), and maximizing the WorldInfo.basicTimeStep field. On each simulation, a trade-off has to be found between simulation speed and realism.</p>
 <p>結論</p>
 <p>在本教程的最後，您將能夠基於剛體創建簡單的環境。 您可以從場景樹視圖添加節點並修改其字段。 您已經熟悉了“實體”，“物理”，“形狀”，“球體”和“盒子”節點。 您還看到了使用定義機制，該機制可減少場景樹的節點多餘。</p>
-<h3 style="background: white; margin: 15.0pt 0in 15.0pt 0in;"><span lang="EN-US" style="font-size: 19.5pt; font-family: 'Roboto',serif; color: #0e6f8c; font-weight: normal;">Conclusion<o:p></o:p></span></h3>
+<p><span style="color: #ff6600;">conclusion</span></p>
 <p>At the end of this tutorial, you are able to create simple environments based on rigid bodies. You are able to add nodes from the scene tree view and to modify their fields. You have become acquainted with the Solid, Physics, Shape, Sphere and Box nodes. You also saw the DEF-USE mechanism that allows to reduce node redundancy of the scene tree.</p>
 <p> </p>
 <p> </p>
-<p> </p><h2>w15  鋼球機構運動模擬</h2>
+<p> </p>
+<h2>w15  鋼球機構運動模擬</h2>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/0_-VB4wlkZE" width="560"></iframe></p>
 <p></p>
 <h1>Onshape</h1>
@@ -144,3 +147,5 @@
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/fvFu9G8E3wo" width="560"></iframe></p>
 <p>心得:</p>
 <p>在這次的查驗,知道自己許多的不足,還離機械設計有一段距離,但能夠成功地把畫的零件轉入V-REP,也是一個不錯的學習</p>
+<h2>w17 查驗3</h2>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/D7lfLn-iibI" width="560"></iframe></p>
