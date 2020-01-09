@@ -21,6 +21,30 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20200109175941.1"><vh>成果發表</vh>
+<v t="leo.20200109175941.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200109180647.1"><vh>任務1</vh>
+<v t="leo.20200109180647.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200109181025.1"><vh>任務2</vh>
+<v t="leo.20200109181025.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200109181323.1"><vh>任務3</vh>
+<v t="leo.20200109181323.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200109183513.1"><vh>任務4</vh>
+<v t="leo.20200109183513.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200109184054.1"><vh>任務5</vh>
+<v t="leo.20200109184054.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200109184509.1"><vh>任務6</vh>
+<v t="leo.20200109184509.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200109185030.1"><vh>心得</vh>
+<v t="leo.20200109185030.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20191213102334.1"><vh>封面投影片</vh>
 <v t="leo.20191213102334.2"><vh>封面投影片內容</vh></v>
 </v>
@@ -345,5 +369,177 @@ Finish.
 <t tx="leo.20191213103118.2">NX心得
 
 在使用NX12的時候,一開始很不習慣,因為NX12為高階cad軟體,所以花了一些時間摸索,用完NX12發現它的功能很強大也很多,但操作起來也變得相當複雜,之前常用SOLID WORK,發現SOLID WORK用起來是比NX12好上手,但NX12功能較多,也較廣泛.</t>
+<t tx="leo.20200109175941.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109175941.2">CAD 40723114 
+
+期末報告
+
+說明本課程中所完成任務
+
+
+
+
+</t>
+<t tx="leo.20200109180647.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109180647.2">任務1
+
+solvespace 編譯
+
+&lt;img alt="" height="300" src="/images/solvespace編譯.PNG" width="550"&gt;
+&lt;small&gt;
+
+Created by [solvespace編譯](https://s40723114.github.io/cad2019/content/week3.html)
+
+
+
+
+</t>
+<t tx="leo.20200109181025.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109181025.2">任務2
+
+利用solvespace 繪製自走車零組件
+導入V-REP進行模擬控制
+
+&lt;img alt="" height="300" src="/images/自走車.PNG" width="550"&gt;
+
+&lt;small&gt;
+Created by [solvespace 繪製自走車及導入V-REP進行模擬控制]
+(https://s40723114.github.io/cad2019/content/week6.html)
+
+
+
+
+</t>
+<t tx="leo.20200109181323.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109181323.2">任務3
+
+更改webots路徑,並且導入鋼球循環系統
+
+&lt;img alt="" height="350" src="/images/webots path.PNG" width="400"&gt;
+
+&lt;small&gt;
+Created by [導入鋼球循環系統]
+(https://s40723114.github.io/cad2019/content/w15%20First.html)
+
+
+
+
+</t>
+<t tx="leo.20200109183513.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109183513.2">任務4
+
+webots tutorial翻譯
+
+&lt;img alt="" height="350" src="/images/webots tutorial.PNG" width="400"&gt;
+
+&lt;small&gt;
+Created by [webots tutorial翻譯]
+(https://s40723114.github.io/cad2019/content/webots%20tutorial.html)
+
+
+
+
+</t>
+<t tx="leo.20200109184054.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109184054.2">任務5
+
+NX12 零組件繪製
+
+&lt;img alt="" height="350" src="/images/NX12 操作影片.PNG" width="500"&gt;
+
+&lt;small&gt;
+Created by [NX12 零組件繪製]
+(https://s40723114.github.io/cad2019/content/NX12%20%E6%93%8D%E4%BD%9C%E5%BD%B1%E7%89%87.html)
+
+
+
+
+</t>
+<t tx="leo.20200109184509.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109184509.2">任務6
+
+用solvespace繪製越野車,導入V-REP
+
+&lt;img alt="" height="350" src="/images/NX12 操作影片.PNG" width="500"&gt;
+
+&lt;small&gt;
+Created by [越野車導入V-REP.PNG]
+(https://www.youtube.com/watch?v=D7lfLn-iibI)
+
+
+
+
+</t>
+<t tx="leo.20200109185030.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109185030.2">心得
+
+在這學期主要學了solvespace及 NX12這兩個套件來畫零組件,還有導入V-REP及Webots進行環境模擬,雖然來說,都有成功導入,但我覺得還有很多地方需待加強,例如在繪製越野車的時候,可以先繪製簡略架構,再來思考怎麼細畫,這樣對於機械設計才是最大的幫助!
+
+
+</t>
 </tnodes>
 </leo_file>
