@@ -403,7 +403,7 @@ solvespace 編譯
 
 
 &lt;small&gt;
-&lt;img alt="" height="300" src="/images/6.PNG" width="550"&gt;
+&lt;img src="../images/6.PNG" width="600px"&gt;
 
 Created by [solvespace編譯](https://s40723114.github.io/cad2019/content/week3.html)
 
