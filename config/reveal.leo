@@ -525,8 +525,8 @@ Created by [NX12 零組件繪製]
 
 
 
-&lt;small&gt;
-&lt;img alt="" height="350" src="/images/越野車導入V-REP.PNG" width="500"&gt;
+
+&lt;img alt="" height="350" src="/images/11.PNG" width="500"&gt;
 
 Created by [越野車導入V-REP.PNG]
 (https://www.youtube.com/watch?v=D7lfLn-iibI)
